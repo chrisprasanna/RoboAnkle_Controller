@@ -3,9 +3,9 @@
 Extensive and reliable LabVIEW program for real-time control of a robotic ankle-foot prosthesis.
 
 ## Project Goal
-The gait of below-knee amputees exhibits a large number of asymmetries between limbs when compared to able-bodied gait. This can lead to very serious long-term medical conditions such as osteoarthritis.
+There are a large number of gait asymmetries seen in individuals with lower limb loss when compared to able-bodied individuals. Since asymmetrical loading of the lower limbs can lead to serious long-term medical conditions such as osteoarthritis, efforts must be made toward designing prosthesis systems that provide proper ankle function.
 
-The objective of this project was to design a controller that coordinates the action of a powered ankle-foot prosthesis (PAFP) in order to minimize asymmetries between the lower limbs. Additionally, the controller must adapt to load-carrying conditions.
+The objective of this project was to design a controller that coordinates the action of a powered ankle-foot prosthesis (PAFP) in order to minimize asymmetries between the lower limbs. Additionally, the controller must adapt to and maintain symmetrical gait during load-carrying conditions.
 
 ## Challenges
 Common challenges for PAFP controller designs include: (i) accounting for personalized altered body mechanics of the amputee, (ii) avoiding manual tuning of subject-specific control parameters, and (iii) designing a control law that automatically adapts to the user and environment. Additionally, many control approaches rely on finite states are not continuous or adaptive to variable conditions.
