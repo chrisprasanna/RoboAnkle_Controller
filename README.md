@@ -18,3 +18,6 @@ The controller was designed to be adaptive through the use of time-invariant sta
 - Real-time LabVIEW code for executing deterministic control laws, sensor fusion, signal processing, data logging, and HMI commands via a wireless network
 - Novel hierarchical control law consisting of an iteratively learned impedance tracking formula (high-level), state estiation based on a single IMU sensor (mid-level), and first principles inverse drivetrain model for current tracking (low-level)
 - Data logging capabilities
+
+## Ackowledgements
+- Thank you to [Anthony Anderson](https://github.com/ajanders) for introducing me to LabVIEW and helping me troubleshoot code. 
